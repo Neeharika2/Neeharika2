@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Full Stack Developer · AI/LLM Enthusiast · Open Source Builder**
+**Full Stack Developer · AI/LLM Enthusiast**
 
 *Crafting intelligent, scalable applications that solve real-world problems*
 
@@ -28,7 +28,7 @@
 | **Backend**        | Node.js · Express.js · Flask · Gin             |
 | **Databases**      | MongoDB · PostgreSQL                              |
 | **AI / ML**        | LangChain · OpenAI API · Vector Databases · RAG |
-| **DevOps & Tools** | Git · Docker · REST APIs       |
+| **DevOps & Tools** | Git · Docker · REST APIs                         |
 
 ---
 
