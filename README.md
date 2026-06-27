@@ -13,6 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-neeharikagudipudi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:neeharikagudipudi@gmail.com)
 
 </div>
+
 ---
 
 ## About
@@ -91,7 +92,7 @@ A production-grade online assessment platform for academic and enterprise enviro
 
 ---
 
-### [Intelligent Candidate Discovery & Ranking — Redrob Hackathon](https://github.com/Neeharika2/<YOUR_REDROB_REPO>)
+### [Intelligent Candidate Discovery & Ranking](https://github.com/Neeharika2/Intelligent-Candidate-Discovery)
 
 A production-grade candidate ranking system built for the Redrob Hackathon. Ranks 100,000 candidates against a Senior AI Engineer job description, filters adversarial honeypot profiles, and surfaces the top 100 with LLM-grade structured reasoning — all within strict compute constraints.
 
@@ -105,7 +106,7 @@ A production-grade candidate ranking system built for the Redrob Hackathon. Rank
 | LLM Re-ranking | DeepSeek re-ranking (40% weight) with evidence-grounded justification generation |
 | Performance | ~10s ranking runtime · <1.5 GB RAM · CPU-only · zero network during ranking step |
 
-[![Repo](https://img.shields.io/badge/GitHub-candidate--discovery-181717?style=flat-square&logo=github)](https://github.com/Neeharika2/<YOUR_REDROB_REPO>)
+[![Repo](https://img.shields.io/badge/GitHub-candidate--discovery-181717?style=flat-square&logo=github)](https://github.com/Neeharika2/Intelligent-Candidate-Discovery)
 
 ---
 
