@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · AI/ML Engineer · LLM Systems Builder**
 
-*I build intelligent, scalable systems — from RAG pipelines and AI-powered platforms*
+*I build intelligent, scalable systems - from RAG pipelines and AI-powered platforms*
 *to real-time full-stack applications that ship and scale.*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%2F+LLM+Engineer;RAG+Systems+%7C+Vector+Search;Building+products+that+matter)](https://git.io/typing-svg)
@@ -114,20 +114,7 @@ A production-grade candidate ranking system built for the Redrob Hackathon. Rank
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Neeharika2&show_icons=true&theme=default&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=434d58&bg_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeharika2&layout=compact&hide_border=true&title_color=2f80ed&text_color=434d58&bg_color=ffffff" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Neeharika2&theme=default&hide_border=true&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed&sideLabels=2f80ed&dates=434d58&sideNums=434d58&currStreakNum=2f80ed)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neeharika2&bg_color=ffffff&color=434d58&line=2f80ed&point=2f80ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -146,7 +133,7 @@ A production-grade candidate ranking system built for the Redrob Hackathon. Rank
 
 ## A Little More
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"First, solve the problem. Then, write the code."* - John Johnson
 
 When I'm not building, I'm reading about system design, exploring new research in AI alignment, or working on side projects that scratch a personal itch. I believe the best software comes from genuine curiosity about the problem space — not just the tech stack.
 
